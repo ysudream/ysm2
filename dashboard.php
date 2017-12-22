@@ -40,7 +40,11 @@
 				</div>
 
 				<div class='memo'>
+					<p><table><!--Card Form-->
+						
+						<tr><td>이름</td><td><input type='text' name='memo.content' size='70' value='메모내용'></td></tr>
 
+					</table>
 				</div>
 
 			</div>
