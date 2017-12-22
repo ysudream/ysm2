@@ -16,7 +16,7 @@
 		
 			<div class='main-content' style='float:left;display:block;margin-top:17px;width:900px;'>
 				
-				<div class='current-ranking' style="margin:0 auto;width:500px;">
+				<div class='current-ranking' style="">
 					<table>
 						<tr><th colspan="2">무위도식</th><th colspan="2">맥주권</th><th colspan="2">치킨권</th></tr>
 						<tr><td colspan="2">abc</td><td>abc</td><td>abc</td><td>tat</td><td>tdtd</td></tr>
@@ -32,8 +32,11 @@
 					</table>
 				</div>
 
-				<p><div class='latests-news'>
-
+				<p><div class='latests-news' style=''>
+					<p><table>
+						<tr><th>날짜</th><th>내용</th></tr>
+						<tr><th>2/2</th><th>김현수 LG행</th></tr>
+					</table>
 				</div>
 
 				<div class='memo'>
